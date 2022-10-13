@@ -1,0 +1,13 @@
+#!/bin/python3
+
+#math
+print(50 + 50) #add
+print(50 - 50) #minus
+print(50 * 50) #multiple
+print(2350 / 50) #divide 
+print(50 + 50 - 23 / 12 * 40 ) #BODMAS
+print(50 ** 10) #exponents
+print(50 % 6) #modulo (left over number)
+print(50//6) #no left over numbers
+
+
